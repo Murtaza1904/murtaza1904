@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Murtaza Kazmi</h1>
 <h3 align="center">A passionate Laravel, Vue.js & Inertia.js developer</h3>
 
-- 🌱 I’m currently learning **Vue.js, Inertia.js & redis**
+- 🌱 I’m currently learning **React.js, Inertia.js & redis**
 
 - 👨‍💻 All of my projects are available at [muhammadmurtaza.com](muhammadmurtaza.com)
 
